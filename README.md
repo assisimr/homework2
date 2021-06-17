@@ -9,7 +9,7 @@
 "Internet- How it all began; trip down the memory lane"
 
 ## 4. Website General info :
-i) (discription) - This is a one stop shop for everything you need to know about the origins of the internet phenom. 
-ii) (keywords) - internet, history, technologies(add list).
-iii) (website title) - History of the Internet.
-iv) (page title) - same as website title.
+1. (discription) - This is a one stop shop for everything you need to know about the origins of the internet phenom. 
+2. (keywords) - internet, history, technologies(add list).
+3. (website title) - History of the Internet.
+4. (page title) - same as website title.
