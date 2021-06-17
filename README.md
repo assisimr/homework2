@@ -10,6 +10,6 @@
 
 ## 4. Website General info :
 i) (discription) - This is a one stop shop for everything you need to know about the origins of the internet phenom. 
-ii) (keywords) - internet, history, technologies(add list)
+ii) (keywords) - internet, history, technologies(add list).
 iii) (website title) - History of the Internet.
-iv) (page title) - same as website title
+iv) (page title) - same as website title.
