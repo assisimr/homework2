@@ -14,13 +14,6 @@
 3. (website title) - History of the Internet.
 4. (page title) - same as website title.
 
-## 5. Website Main Menu
-  1. Introduction
-  2. Origin
-  3. Browser Wars
-  4. Search Engines
-  5. Dot Com Bubble
-  6. Emerging Branches
 
 
   
